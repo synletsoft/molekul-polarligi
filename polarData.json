@@ -1,0 +1,186 @@
+[
+  {
+    "bilesik": "BH3",
+    "elektronegatiflik": ["B:2.04", "H:2.20"],
+    "yukDagilim": 1,
+    "molekulPolarlik": 0,
+    "dipol": 1,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "Br2",
+    "elektronegatiflik": ["Br:2.96", "Br:2.96"],
+    "yukDagilim": 1,
+    "molekulPolarlik": 0,
+    "dipol": 1,
+    "elektronYogunluk": [0, 0]
+  },
+  {
+    "bilesik": "CCl4",
+    "elektronegatiflik": ["C:2.55", "Cl:3.16"],
+    "yukDagilim": 1,
+    "molekulPolarlik": 0,
+    "dipol": 1,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "CF4",
+    "elektronegatiflik": ["C:2.55", "F:4.00"],
+    "yukDagilim": 1,
+    "molekulPolarlik": 0,
+    "dipol": 1,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "CH4",
+    "elektronegatiflik": ["C:2.55", "H:2.20"],
+    "yukDagilim": 1,
+    "molekulPolarlik": 0,
+    "dipol": 1,
+    "elektronYogunluk": [-1, 1]
+  },
+  {
+    "bilesik": "Cl2",
+    "elektronegatiflik": ["Cl:3.16", "Cl:3.16"],
+    "yukDagilim": 1,
+    "molekulPolarlik": 0,
+    "dipol": 1,
+    "elektronYogunluk": [0, 0]
+  },
+  {
+    "bilesik": "CO2",
+    "elektronegatiflik": ["C:2.55", "O:3.44"],
+    "yukDagilim": 1,
+    "molekulPolarlik": 0,
+    "dipol": 1,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "CS2",
+    "elektronegatiflik": ["C:2.55", "S:2.58"],
+    "yukDagilim": 1,
+    "molekulPolarlik": 0,
+    "dipol": 1,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "F2",
+    "elektronegatiflik": ["F:4.00", "F:4.00"],
+    "yukDagilim": 1,
+    "molekulPolarlik": 0,
+    "dipol": 1,
+    "elektronYogunluk": [0, 0]
+  },
+  {
+    "bilesik": "H2",
+    "elektronegatiflik": ["H:2.20", "H:2.20"],
+    "yukDagilim": 1,
+    "molekulPolarlik": 0,
+    "dipol": 1,
+    "elektronYogunluk": [0, 0]
+  },
+  {
+    "bilesik": "H2O",
+    "elektronegatiflik": ["H:2.20", "O:3.44"],
+    "yukDagilim": 0,
+    "molekulPolarlik": 1,
+    "dipol": 0,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "H2S",
+    "elektronegatiflik": ["H:2.20", "S:2.58"],
+    "yukDagilim": 0,
+    "molekulPolarlik": 1,
+    "dipol": 0,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "HBr",
+    "elektronegatiflik": ["H:2.20", "Br:2.96"],
+    "yukDagilim": 0,
+    "molekulPolarlik": 1,
+    "dipol": 0,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "HCl",
+    "elektronegatiflik": ["H:2.20", "Cl:3.16"],
+    "yukDagilim": 0,
+    "molekulPolarlik": 1,
+    "dipol": 0,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "HF",
+    "elektronegatiflik": ["H:2.20", "F:4.00"],
+    "yukDagilim": 0,
+    "molekulPolarlik": 1,
+    "dipol": 0,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "N2",
+    "elektronegatiflik": ["N:3.04", "N:3.04"],
+    "yukDagilim": 1,
+    "molekulPolarlik": 0,
+    "dipol": 1,
+    "elektronYogunluk": [0, 0]
+  },
+  {
+    "bilesik": "NCl3",
+    "elektronegatiflik": ["N:3.04", "Cl:3.16"],
+    "yukDagilim": 0,
+    "molekulPolarlik": 1,
+    "dipol": 0,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "NF3",
+    "elektronegatiflik": ["N:3.04", "F:4.00"],
+    "yukDagilim": 0,
+    "molekulPolarlik": 1,
+    "dipol": 0,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "NH3",
+    "elektronegatiflik": ["N:3.04", "H:2.20"],
+    "yukDagilim": 0,
+    "molekulPolarlik": 1,
+    "dipol": 0,
+    "elektronYogunluk": [-1, 1]
+  },
+  {
+    "bilesik": "O2",
+    "elektronegatiflik": ["O:3.44", "O:3.44"],
+    "yukDagilim": 1,
+    "molekulPolarlik": 0,
+    "dipol": 1,
+    "elektronYogunluk": [0, 0]
+  },
+  {
+    "bilesik": "PCl3",
+    "elektronegatiflik": ["P:2.18", "Cl:3.16"],
+    "yukDagilim": 0,
+    "molekulPolarlik": 1,
+    "dipol": 0,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "PF3",
+    "elektronegatiflik": ["P:2.18", "F:4.00"],
+    "yukDagilim": 0,
+    "molekulPolarlik": 1,
+    "dipol": 0,
+    "elektronYogunluk": [1, -1]
+  },
+  {
+    "bilesik": "PH3",
+    "elektronegatiflik": ["P:2.18", "H:2.20"],
+    "yukDagilim": 1,
+    "molekulPolarlik": 0,
+    "dipol": 1,
+    "elektronYogunluk": [0, 0]
+  }
+]
