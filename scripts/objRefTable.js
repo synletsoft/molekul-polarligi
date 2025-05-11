@@ -128,6 +128,7 @@ self.C3_JsPropNameTable = [
 	{dipolZero: 0},
 	{posX: 0},
 	{posY: 0},
+	{isFill: 0},
 	{snegatif: 0},
 	{spozitif: 0},
 	{molekul0: 0},
