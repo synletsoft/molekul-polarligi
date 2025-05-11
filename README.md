@@ -1,2 +1,0 @@
-# molekul-polarligi
-

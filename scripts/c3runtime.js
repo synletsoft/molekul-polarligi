@@ -1373,6 +1373,11 @@ self.C3_ExpressionFuncs = [
 			const n1 = p._GetNode(1);
 			return () => n0.ExpObject(and(n1.ExpObject(0), ".elektronYogunluk.0"));
 		},
+		p => {
+			const n0 = p._GetNode(0);
+			return () => n0.ExpInstVar();
+		},
+		() => -1,
 		() => 300,
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();

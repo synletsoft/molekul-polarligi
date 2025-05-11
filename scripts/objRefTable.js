@@ -52,7 +52,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Sprite.Cnds.PickByUID,
 		C3.Plugins.Sprite.Exps.UID,
 		C3.Behaviors.DragnDrop.Acts.SetEnabled,
-		C3.Plugins.System.Acts.CreateObject,
 		C3.Behaviors.Tween.Acts.TweenTwoProperties,
 		C3.Plugins.System.Cnds.CompareBoolVar,
 		C3.Plugins.System.Acts.SetBoolVar,
@@ -64,6 +63,8 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.ForEach,
 		C3.Plugins.System.Acts.StopLoop,
 		C3.Plugins.System.Acts.SetFunctionReturnValue,
+		C3.Plugins.System.Cnds.CompareVar,
+		C3.Plugins.System.Acts.CreateObject,
 		C3.Behaviors.Tween.Acts.TweenOneProperty,
 		C3.Plugins.System.Cnds.EveryTick,
 		C3.Plugins.Sprite.Acts.SetWidth,
@@ -150,6 +151,7 @@ self.C3_JsPropNameTable = [
 	{dipolControl: 0},
 	{answerUID: 0},
 	{yukParcaControl: 0},
+	{sVal: 0},
 	{isLoader: 0}
 ];
 
