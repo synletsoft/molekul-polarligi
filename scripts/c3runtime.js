@@ -1337,6 +1337,24 @@ self.C3_ExpressionFuncs = [
 		p => {
 			const n0 = p._GetNode(0);
 			const n1 = p._GetNode(1);
+			return () => n0.ExpObject(and(n1.ExpObject(0), ".bilesik"));
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			const n1 = p._GetNode(1);
+			return () => n0.ExpObject(and(n1.ExpObject(0), ".elektronYogunluk.0"));
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			return () => n0.ExpObject(1);
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			return () => n0.ExpObject(2);
+		},
+		p => {
+			const n0 = p._GetNode(0);
+			const n1 = p._GetNode(1);
 			const n2 = p._GetNode(2);
 			return () => n0.ExpObject(and(and(n1.ExpObject(0), ".elektronYogunluk."), n2.ExpInstVar_Family()));
 		},
@@ -1370,14 +1388,10 @@ self.C3_ExpressionFuncs = [
 		() => 1.5,
 		p => {
 			const n0 = p._GetNode(0);
-			const n1 = p._GetNode(1);
-			return () => n0.ExpObject(and(n1.ExpObject(0), ".elektronYogunluk.0"));
-		},
-		p => {
-			const n0 = p._GetNode(0);
 			return () => n0.ExpInstVar();
 		},
 		() => -1,
+		() => 0.9,
 		() => 300,
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();

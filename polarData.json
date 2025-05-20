@@ -1,14 +1,14 @@
 [
   {
-    "bilesik": "BH3",
+    "bilesik": "BH₃",
     "elektronegatiflik": ["B:2.04", "H:2.20"],
     "yukDagilim": 1,
     "molekulPolarlik": 0,
     "dipol": 1,
-    "elektronYogunluk": [1, -1]
+    "elektronYogunluk": [0, 0]
   },
   {
-    "bilesik": "Br2",
+    "bilesik": "Br₂",
     "elektronegatiflik": ["Br:2.96", "Br:2.96"],
     "yukDagilim": 1,
     "molekulPolarlik": 0,
@@ -16,31 +16,31 @@
     "elektronYogunluk": [0, 0]
   },
   {
-    "bilesik": "CCl4",
+    "bilesik": "CCl₄",
     "elektronegatiflik": ["C:2.55", "Cl:3.16"],
     "yukDagilim": 1,
     "molekulPolarlik": 0,
     "dipol": 1,
-    "elektronYogunluk": [1, -1]
+    "elektronYogunluk": [0, 0]
   },
   {
-    "bilesik": "CF4",
+    "bilesik": "CF₄",
     "elektronegatiflik": ["C:2.55", "F:4.00"],
     "yukDagilim": 1,
     "molekulPolarlik": 0,
     "dipol": 1,
-    "elektronYogunluk": [1, -1]
+    "elektronYogunluk": [0, 0]
   },
   {
-    "bilesik": "CH4",
+    "bilesik": "CH₄",
     "elektronegatiflik": ["C:2.55", "H:2.20"],
     "yukDagilim": 1,
     "molekulPolarlik": 0,
     "dipol": 1,
-    "elektronYogunluk": [-1, 1]
+    "elektronYogunluk": [0, 0]
   },
   {
-    "bilesik": "Cl2",
+    "bilesik": "Cl₂",
     "elektronegatiflik": ["Cl:3.16", "Cl:3.16"],
     "yukDagilim": 1,
     "molekulPolarlik": 0,
@@ -48,23 +48,23 @@
     "elektronYogunluk": [0, 0]
   },
   {
-    "bilesik": "CO2",
+    "bilesik": "CO₂",
     "elektronegatiflik": ["C:2.55", "O:3.44"],
     "yukDagilim": 1,
     "molekulPolarlik": 0,
     "dipol": 1,
-    "elektronYogunluk": [1, -1]
+    "elektronYogunluk": [0, 0]
   },
   {
-    "bilesik": "CS2",
+    "bilesik": "CS₂",
     "elektronegatiflik": ["C:2.55", "S:2.58"],
     "yukDagilim": 1,
     "molekulPolarlik": 0,
     "dipol": 1,
-    "elektronYogunluk": [1, -1]
+    "elektronYogunluk": [0, 0]
   },
   {
-    "bilesik": "F2",
+    "bilesik": "F₂",
     "elektronegatiflik": ["F:4.00", "F:4.00"],
     "yukDagilim": 1,
     "molekulPolarlik": 0,
@@ -72,7 +72,7 @@
     "elektronYogunluk": [0, 0]
   },
   {
-    "bilesik": "H2",
+    "bilesik": "H₂",
     "elektronegatiflik": ["H:2.20", "H:2.20"],
     "yukDagilim": 1,
     "molekulPolarlik": 0,
@@ -80,7 +80,7 @@
     "elektronYogunluk": [0, 0]
   },
   {
-    "bilesik": "H2O",
+    "bilesik": "H₂O",
     "elektronegatiflik": ["H:2.20", "O:3.44"],
     "yukDagilim": 0,
     "molekulPolarlik": 1,
@@ -88,7 +88,7 @@
     "elektronYogunluk": [1, -1]
   },
   {
-    "bilesik": "H2S",
+    "bilesik": "H₂S",
     "elektronegatiflik": ["H:2.20", "S:2.58"],
     "yukDagilim": 0,
     "molekulPolarlik": 1,
@@ -120,7 +120,7 @@
     "elektronYogunluk": [1, -1]
   },
   {
-    "bilesik": "N2",
+    "bilesik": "N₂",
     "elektronegatiflik": ["N:3.04", "N:3.04"],
     "yukDagilim": 1,
     "molekulPolarlik": 0,
@@ -128,7 +128,7 @@
     "elektronYogunluk": [0, 0]
   },
   {
-    "bilesik": "NCl3",
+    "bilesik": "NCl₃",
     "elektronegatiflik": ["N:3.04", "Cl:3.16"],
     "yukDagilim": 0,
     "molekulPolarlik": 1,
@@ -136,7 +136,7 @@
     "elektronYogunluk": [1, -1]
   },
   {
-    "bilesik": "NF3",
+    "bilesik": "NF₃",
     "elektronegatiflik": ["N:3.04", "F:4.00"],
     "yukDagilim": 0,
     "molekulPolarlik": 1,
@@ -144,7 +144,7 @@
     "elektronYogunluk": [1, -1]
   },
   {
-    "bilesik": "NH3",
+    "bilesik": "NH₃",
     "elektronegatiflik": ["N:3.04", "H:2.20"],
     "yukDagilim": 0,
     "molekulPolarlik": 1,
@@ -152,7 +152,7 @@
     "elektronYogunluk": [-1, 1]
   },
   {
-    "bilesik": "O2",
+    "bilesik": "O₂",
     "elektronegatiflik": ["O:3.44", "O:3.44"],
     "yukDagilim": 1,
     "molekulPolarlik": 0,
@@ -160,7 +160,7 @@
     "elektronYogunluk": [0, 0]
   },
   {
-    "bilesik": "PCl3",
+    "bilesik": "PCl₃",
     "elektronegatiflik": ["P:2.18", "Cl:3.16"],
     "yukDagilim": 0,
     "molekulPolarlik": 1,
@@ -168,7 +168,7 @@
     "elektronYogunluk": [1, -1]
   },
   {
-    "bilesik": "PF3",
+    "bilesik": "PF₃",
     "elektronegatiflik": ["P:2.18", "F:4.00"],
     "yukDagilim": 0,
     "molekulPolarlik": 1,
@@ -176,11 +176,11 @@
     "elektronYogunluk": [1, -1]
   },
   {
-    "bilesik": "PH3",
+    "bilesik": "PH₃",
     "elektronegatiflik": ["P:2.18", "H:2.20"],
-    "yukDagilim": 1,
-    "molekulPolarlik": 0,
-    "dipol": 1,
-    "elektronYogunluk": [0, 0]
+    "yukDagilim": 0,
+    "molekulPolarlik": 1,
+    "dipol": 0,
+    "elektronYogunluk": [1, -1]
   }
 ]
