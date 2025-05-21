@@ -149,7 +149,7 @@
     "yukDagilim": 0,
     "molekulPolarlik": 1,
     "dipol": 0,
-    "elektronYogunluk": [-1, 1]
+    "elektronYogunluk": [1, -1]
   },
   {
     "bilesik": "O₂",
